@@ -1,0 +1,6 @@
+# Packages needed to run sma_backtest_fixed.ipynb
+pandas
+numpy
+statsmodels
+lets-plot
+jupyter
